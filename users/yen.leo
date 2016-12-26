@@ -196,6 +196,12 @@
 <v t="leo.20161219150354.5"><vh>new:封面投影片內容</vh></v>
 </v>
 </v>
+<v t="leo.20161226125535.1" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20161226125535.2"><vh>Recovered node "封面投影片內容" from @clean index.html</vh>
+<v t="leo.20161226125535.3"><vh>old:封面投影片內容</vh></v>
+<v t="leo.20161226125535.4"><vh>new:封面投影片內容</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
 <t tx="amd.20151215170031.1"></t>
@@ -327,7 +333,7 @@ print("hello")
 Created by [s40523222](http://s40523222.github.io/kmolab/blog/)
 &lt;/small&gt;
 
-[s40523222](blog/index.html)
+[40523222](blog/index.html)
 
 </t>
 <t tx="amd.20161004104641.1">&lt;section data-markdown&gt;
@@ -570,6 +576,44 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 &lt;/small&gt;
 
 [blog](blog/index.html)
+
+</t>
+<t tx="leo.20161226125535.1"></t>
+<t tx="leo.20161226125535.2">(uncached) amd.20161004095719.2
+Diff...
+  # 2016Fall 計算機程式課程
+  
+  ### 虎科大機械設計工程系
+  
+  &lt;small&gt;
+  Created by [s40523222](http://s40523222.github.io/kmolab/blog/)
+  &lt;/small&gt;
+  
+- [40523222](blog/index.html)
++ [s40523222](blog/index.html)
+?  +
+  
+</t>
+<t tx="leo.20161226125535.3"># 2016Fall 計算機程式課程
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [s40523222](http://s40523222.github.io/kmolab/blog/)
+&lt;/small&gt;
+
+[s40523222](blog/index.html)
+
+</t>
+<t tx="leo.20161226125535.4"># 2016Fall 計算機程式課程
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [s40523222](http://s40523222.github.io/kmolab/blog/)
+&lt;/small&gt;
+
+[40523222](blog/index.html)
 
 </t>
 <t tx="yen.20161011114704.1">&lt;section data-markdown&gt;

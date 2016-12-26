@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 計算機程式課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2016-12-12T12:00:00+08:00</updated><entry><title>W14 練習</title><link href="./w14-lian-xi.html" rel="alternate"></link><published>2016-12-12T12:00:00+08:00</published><updated>2016-12-12T12:00:00+08:00</updated><author><name>40523217</name></author><id>tag:,2016-12-12:./w14-lian-xi.html</id><summary type="html">&lt;table class="codehilitetable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;1&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;            以下為第十四週開始的城市練習,要利用 &lt;span class="nt"&gt;&amp;lt;a&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://mde.tw/2016fallcp/course/Python3Programs.txt&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;http://mde.tw/2016fallcp/course/Python3Programs.txt&lt;span class="nt"&gt;&amp;lt;/a&amp;gt;&lt;/span&gt; 要整理Brython 的用法.
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 計算機程式課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2016-12-12T12:00:00+08:00</updated><entry><title>W14 練習</title><link href="./w14-lian-xi.html" rel="alternate"></link><published>2016-12-12T12:00:00+08:00</published><updated>2016-12-12T12:00:00+08:00</updated><author><name>40523222</name></author><id>tag:,2016-12-12:./w14-lian-xi.html</id><summary type="html">&lt;table class="codehilitetable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;1&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;            以下為第十四週開始的城市練習,要利用 &lt;span class="nt"&gt;&amp;lt;a&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://mde.tw/2016fallcp/course/Python3Programs.txt&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;http://mde.tw/2016fallcp/course/Python3Programs.txt&lt;span class="nt"&gt;&amp;lt;/a&amp;gt;&lt;/span&gt; 要整理Brython 的用法.
 &lt;/pre&gt;&lt;/div&gt;
 &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 
@@ -38,7 +38,7 @@ mynum = input("要印幾次?")
 for i in range(int(mynum)):
     #container&lt;="W14練習-2"+html.BR()
     container&lt;=mystring+html.BR()
-&lt;/script&gt;</summary><category term="使用導引"></category></entry><entry><title>W13 Brython 繪圖範例</title><link href="./w13-brython-hui-tu-fan-li.html" rel="alternate"></link><published>2016-12-05T12:00:00+08:00</published><updated>2016-12-05T12:00:00+08:00</updated><author><name>40523217</name></author><id>tag:,2016-12-05:./w13-brython-hui-tu-fan-li.html</id><summary type="html">&lt;p&gt;Brython 繪圖&lt;/p&gt;
+&lt;/script&gt;</summary><category term="使用導引"></category></entry><entry><title>W13 Brython 繪圖範例</title><link href="./w13-brython-hui-tu-fan-li.html" rel="alternate"></link><published>2016-12-05T12:00:00+08:00</published><updated>2016-12-05T12:00:00+08:00</updated><author><name>40523222</name></author><id>tag:,2016-12-05:./w13-brython-hui-tu-fan-li.html</id><summary type="html">&lt;p&gt;Brython 繪圖&lt;/p&gt;
 &lt;p&gt;繪圖流程, 導入程式庫, 啟動, 然後引用各種模組開始繪圖&lt;/p&gt;
 
 
@@ -661,7 +661,7 @@ ooo(350,248)
 ooo(370,248)
 ooo(390,248)
 &lt;/script&gt;
-&lt;/pre&gt;</summary><category term="使用導引"></category></entry><entry><title>W11 Brython 繪圖範例</title><link href="./w11-brython-hui-tu-fan-li.html" rel="alternate"></link><published>2016-11-21T12:00:00+08:00</published><updated>2016-11-21T12:00:00+08:00</updated><author><name>40523217</name></author><id>tag:,2016-11-21:./w11-brython-hui-tu-fan-li.html</id><summary type="html">&lt;p&gt;Brython 繪圖&lt;/p&gt;
+&lt;/pre&gt;</summary><category term="使用導引"></category></entry><entry><title>W11 Brython 繪圖範例</title><link href="./w11-brython-hui-tu-fan-li.html" rel="alternate"></link><published>2016-11-21T12:00:00+08:00</published><updated>2016-11-21T12:00:00+08:00</updated><author><name>40523222</name></author><id>tag:,2016-11-21:./w11-brython-hui-tu-fan-li.html</id><summary type="html">&lt;p&gt;Brython 繪圖&lt;/p&gt;
 &lt;p&gt;繪圖流程, 導入程式庫, 啟動, 然後引用各種模組開始繪圖&lt;/p&gt;
 
 
@@ -839,7 +839,7 @@ background(300, 300, 10, 10, 5, 4, ctx)
 background(100, 300, 10, 10, 5, 4, ctx)
 background(300, 100, 10, 10, 5, 12, ctx)
 &lt;/script&gt;
-&lt;/pre&gt;</summary><category term="使用導引"></category></entry><entry><title>W10 Brython 繪圖範例</title><link href="./w10-brython-hui-tu-fan-li.html" rel="alternate"></link><published>2016-11-14T12:00:00+08:00</published><updated>2016-11-14T12:00:00+08:00</updated><author><name>40523217</name></author><id>tag:,2016-11-14:./w10-brython-hui-tu-fan-li.html</id><summary type="html">&lt;p&gt;Brython 繪圖&lt;/p&gt;
+&lt;/pre&gt;</summary><category term="使用導引"></category></entry><entry><title>W10 Brython 繪圖範例</title><link href="./w10-brython-hui-tu-fan-li.html" rel="alternate"></link><published>2016-11-14T12:00:00+08:00</published><updated>2016-11-14T12:00:00+08:00</updated><author><name>40523222</name></author><id>tag:,2016-11-14:./w10-brython-hui-tu-fan-li.html</id><summary type="html">&lt;p&gt;Brython 繪圖&lt;/p&gt;
 &lt;p&gt;繪圖流程, 導入程式庫, 啟動, 然後引用各種模組開始繪圖&lt;/p&gt;
 
 
@@ -1202,10 +1202,10 @@ for line in line_list:
 output += html.BR() + html.BR()  + "共有 " + str(count)+ " 份文件尚未失效!"
 container &lt;= output
 &lt;/script&gt;
-&lt;/pre&gt;</summary><category term="使用導引"></category></entry><entry><title>2016Fall 程式練習題-12345</title><link href="./2016fall-cheng-shi-lian-xi-ti-12345.html" rel="alternate"></link><published>2016-10-31T12:00:00+08:00</published><updated>2016-10-31T12:00:00+08:00</updated><author><name>40523217</name></author><id>tag:,2016-10-31:./2016fall-cheng-shi-lian-xi-ti-12345.html</id><summary type="html">&lt;p&gt;1234已知截至第六週 2016fallcpa 的分組資料位於倉儲中的 &lt;a href="./../w6_group.txt"&gt;w6_group.txt&lt;/a&gt;, 而從學校修課系統下載的修課人員名條則為 &lt;a href="./../w6_list.txt"&gt;w6_list.txt&lt;/a&gt;, 請各組著手練習, 找出尚未納入分組的人員名單, 並研擬如何處置上課一個半月卻尚未進入情況的學員?&lt;/p&gt;
+&lt;/pre&gt;</summary><category term="使用導引"></category></entry><entry><title>2016Fall 程式練習題-12345</title><link href="./2016fall-cheng-shi-lian-xi-ti-12345.html" rel="alternate"></link><published>2016-10-31T12:00:00+08:00</published><updated>2016-10-31T12:00:00+08:00</updated><author><name>40523222</name></author><id>tag:,2016-10-31:./2016fall-cheng-shi-lian-xi-ti-12345.html</id><summary type="html">&lt;p&gt;1234已知截至第六週 2016fallcpa 的分組資料位於倉儲中的 &lt;a href="./../w6_group.txt"&gt;w6_group.txt&lt;/a&gt;, 而從學校修課系統下載的修課人員名條則為 &lt;a href="./../w6_list.txt"&gt;w6_list.txt&lt;/a&gt;, 請各組著手練習, 找出尚未納入分組的人員名單, 並研擬如何處置上課一個半月卻尚未進入情況的學員?&lt;/p&gt;
 
 
-&lt;p&gt;研擬如何處置上課一個半月卻尚未進入情況的學員?&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>2016Fall 程式練習題-1234</title><link href="./2016fall-cheng-shi-lian-xi-ti-1234.html" rel="alternate"></link><published>2016-10-24T12:00:00+08:00</published><updated>2016-10-24T12:00:00+08:00</updated><author><name>40523217</name></author><id>tag:,2016-10-24:./2016fall-cheng-shi-lian-xi-ti-1234.html</id><summary type="html">&lt;p&gt;1234已知截至第六週 2016fallcpa 的分組資料位於倉儲中的 &lt;a href="./../w6_group.txt"&gt;w6_group.txt&lt;/a&gt;, 而從學校修課系統下載的修課人員名條則為 &lt;a href="./../w6_list.txt"&gt;w6_list.txt&lt;/a&gt;, 請各組著手練習, 找出尚未納入分組的人員名單, 並研擬如何處置上課一個半月卻尚未進入情況的學員?&lt;/p&gt;
+&lt;p&gt;研擬如何處置上課一個半月卻尚未進入情況的學員?&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>2016Fall 程式練習題-1234</title><link href="./2016fall-cheng-shi-lian-xi-ti-1234.html" rel="alternate"></link><published>2016-10-24T12:00:00+08:00</published><updated>2016-10-24T12:00:00+08:00</updated><author><name>40523222</name></author><id>tag:,2016-10-24:./2016fall-cheng-shi-lian-xi-ti-1234.html</id><summary type="html">&lt;p&gt;1234已知截至第六週 2016fallcpa 的分組資料位於倉儲中的 &lt;a href="./../w6_group.txt"&gt;w6_group.txt&lt;/a&gt;, 而從學校修課系統下載的修課人員名條則為 &lt;a href="./../w6_list.txt"&gt;w6_list.txt&lt;/a&gt;, 請各組著手練習, 找出尚未納入分組的人員名單, 並研擬如何處置上課一個半月卻尚未進入情況的學員?&lt;/p&gt;
 
 
 &lt;p&gt;以下利用 Brython 讀取位於倉儲中的 &lt;a href="./../w6_list.txt"&gt;w6_list.txt&lt;/a&gt; 與 &lt;a href="./../w6_group.txt"&gt;w6_group.txt&lt;/a&gt; 資料檔案.&lt;/p&gt;
@@ -1285,7 +1285,7 @@ for i in not_in_group:
     container3 &lt;= "第"+str(n)+"位: "+ str(i)
     n = n + 1
     container3 &lt;= html.BR()
-&lt;/script&gt;</summary><category term="使用導引"></category></entry><entry><title>2016Fall 機械設計主題教學</title><link href="./2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html" rel="alternate"></link><published>2016-09-21T12:00:00+08:00</published><updated>2016-09-21T12:00:00+08:00</updated><author><name>40523217</name></author><id>tag:,2016-09-21:./2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html</id><summary type="html">&lt;p&gt;知識管理與最佳化應用實驗室試圖利用計算機程式、網際內容管理、電腦輔助設計實習與協同產品設計實習等課程, 進行與機械設計相關的主題式教學, 其中包含強化創造力的教學、令學員熟習六種工程表達方式, 並且俱備融入協同設計所需要的四大面向知識與技能.&lt;/p&gt;
+&lt;/script&gt;</summary><category term="使用導引"></category></entry><entry><title>2016Fall 機械設計主題教學</title><link href="./2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html" rel="alternate"></link><published>2016-09-21T12:00:00+08:00</published><updated>2016-09-21T12:00:00+08:00</updated><author><name>40523222</name></author><id>tag:,2016-09-21:./2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html</id><summary type="html">&lt;p&gt;知識管理與最佳化應用實驗室試圖利用計算機程式、網際內容管理、電腦輔助設計實習與協同產品設計實習等課程, 進行與機械設計相關的主題式教學, 其中包含強化創造力的教學、令學員熟習六種工程表達方式, 並且俱備融入協同設計所需要的四大面向知識與技能.&lt;/p&gt;
 
 
 &lt;h1&gt;機械設計主題教學&lt;/h1&gt;
